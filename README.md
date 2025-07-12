@@ -17,7 +17,7 @@ A cross-platform **Groovy-based command-line tool** that organizes files in a di
 
 ### Prerequisites
 
-- [JDK 21]
-- [Gradle]
+- JDK 21
+- Gradle
 - Git
 
