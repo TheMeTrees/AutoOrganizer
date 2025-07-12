@@ -13,6 +13,7 @@ out/
 
 # Generated JARs or distributions
 libs/
+lib/
 distributions/
 tmp/
 .gradle/
